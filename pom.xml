@@ -283,11 +283,6 @@
                 <version>${nashorn.core.version}</version>
                 <scope>provided</scope>
             </dependency>
-            <dependency>
-                <groupId>org.wso2.orbit.openjdk.nashorn</groupId>
-                <artifactId>openjdk-nashorn</artifactId>
-                <version>${openjdk.nashorn.wso2.version}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
